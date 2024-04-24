@@ -1,0 +1,9 @@
+{projects: [{projectId: 1709870330149, title: 'p1', description: 'p1', per: 0},
+{projectId: 1709870346200, title: 'p2', description: 'p2', per: 0},
+{projectId: 1709870364471, title: 'p3', description: 'p3', per: 0}], tasks: [
+{id: 1709870398094, project: 1709870330149, name: 'p1t1', status: 'todo'},
+{id: 1709870404941, project: 1709870330149, name: 'p1t2', status: 'todo'}, 
+{id: 1709870426691, project: 1709870330149, name: 'p1t3', status: 'done'},
+{id: 1709870473343, project: 1709870364471, name: 'p2t1', status: 'done'},
+{id: 1709870476859, project: 1709870364471, name: 'p2t2', status: 'todo'},
+{id: 1709870481193, project: 1709870364471, name: 'p2t3', status: 'done'}]}
